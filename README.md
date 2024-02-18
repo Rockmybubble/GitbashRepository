@@ -1,0 +1,2 @@
+# GitbashRepository
+nqkakuv tekst
